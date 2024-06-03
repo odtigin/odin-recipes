@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    
+
+}
+img {
+height: auto; width: 400px; 
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.A{
+    font-size: large;
+}
+.A .olive-oil{
+    color: brown;
+}
+.olive-oil{
+    font-weight: bold;
+}
+.leaves,
+.juice{
+    font-style: italic;
+    color:rgb(161, 7, 107);
+}
+.orange.juice{
+    color: #7FF606;
+
+}
